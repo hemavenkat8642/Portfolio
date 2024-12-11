@@ -1,4 +1,9 @@
-# portfolio
-My details and projects
+### Portfolio Responsive Complete
 
-https://hemavenkat8642.github.io/portfolio/ tap here to quickly access my portfolio...
+- Responsive Personal Portfolio Website HTML, CSS & JavaScript.
+- Contains animations when scrolling.
+- Smooth scrolling in each section.
+- Developed first with the Mobile First methodology, then for desktop.
+- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+
+**Live Link:** [https://hemavenkat8642.github.io/portfolio/](https://hemavenkat8642.github.io/portfolio/)
